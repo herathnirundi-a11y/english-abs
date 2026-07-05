@@ -1,0 +1,6 @@
+{
+  "name": "Lets Talk English Academy",
+  "description": "An elegant, interactive single-page website and enrollment assistant for Let's Talk English Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
